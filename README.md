@@ -2,7 +2,7 @@
 
 This repository contains code that was used to perform data analysis on a dataset which was the result of mobile network measurements. Measurements were performed in a LTE network using several identical measurement devices, and more than 200 parameters were observed at the time of each measurement. The period between measurements was not constant, thus the results in datasets are represented as unevenly sampled time series.
 
-The analysis was performed using Python and pandas. Please refer to my masters thesis (available here) for detailed information on the experiments and the course of the analysis.
+The analysis was performed using Python and pandas. Please refer to my masters thesis (available [here](https://repozitorij.uni-lj.si/Dokument.php?id=119570&lang=slv)) for detailed information on the experiments and the course of the analysis.
 
 Jupyter notebooks are organized as follows:
   - *feature_selection*: feature space of raw iperf measurement data is shrunk by using a heuristic feature selection process.
